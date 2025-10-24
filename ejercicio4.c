@@ -1,5 +1,5 @@
 /* Girón Knepp Hanna Sofía
-clase 3 ejercicio 2*/
+clase 3 ejercicio 4*/
 
 #include <stdio.h>
 
